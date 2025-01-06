@@ -14,8 +14,8 @@ I’m a **full-stack developer** and **graphics designer** with a strong passion
 - Experienced with **Node.js**, **Express**, and **MongoDB**.  
 - Expertise in using **Firebase** for authentication and database management.
 
-##Intrest
--Exploring AI Agents
+## Intrest
+- Exploring AI Agents
 
 ### Content Management  
 - Skilled in leveraging **Strapi** to build and manage e-commerce platforms.  
